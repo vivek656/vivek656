@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivek656
 - 👀 I’m interested in coding ,  security , engineering
-- 🌱 I’m currently learning java , python , web development
-- 💞️ I’m looking to collaborate on web developmwnt
+- 🌱 I’m currently wolring as a software developer. mostly dealing with kotlin backend , Corda and opensource json schemas.
+- 💞️ I’m looking to collaborate on web development, opensource libraries .
 - 📫 How to reach me twitter/vivek.latwal
 
 <!---

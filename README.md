@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek656
 - I develop code for fun and for work.
-- trying to make this world a better place by developing systems that remove some stressed of developers
+- trying to make this world a better place by developing systems that remove some stress off developers
 - 📫 How to reach me twitter/vivek.latwal
 
 <!---
